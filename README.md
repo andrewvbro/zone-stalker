@@ -2,6 +2,10 @@
 
 ![THE ZONE](cover.svg)
 
+### ▶ [**Play now in your browser**](https://andrewvbro.github.io/zone-stalker/) &nbsp;·&nbsp; ⬇ [**Download (.zip)**](https://github.com/andrewvbro/zone-stalker/releases/latest)
+
+> Tip: in Chrome/Edge/Android, open the Play link and choose **Install** to run it as a fullscreen, offline app.
+
 A single-file, browser-based first-person survival shooter set in an irradiated exclusion zone. Built with [Three.js](https://threejs.org/) (no build step — it's one `index.html`).
 
 ## ▶ Play
