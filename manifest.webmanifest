@@ -1,0 +1,14 @@
+{
+  "name": "THE ZONE — a S.T.A.L.K.E.R.-like",
+  "short_name": "THE ZONE",
+  "description": "A first-person survival shooter set in an irradiated exclusion zone: anomalies, artifacts, mutants, factions, and the Chernobyl ruin.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "landscape",
+  "background_color": "#070a06",
+  "theme_color": "#1c2414",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
