@@ -1,5 +1,7 @@
 # THE ZONE — a S.T.A.L.K.E.R.-like
 
+![THE ZONE](cover.svg)
+
 A single-file, browser-based first-person survival shooter set in an irradiated exclusion zone. Built with [Three.js](https://threejs.org/) (no build step — it's one `index.html`).
 
 ## ▶ Play
